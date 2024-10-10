@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![hechr4z's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hechr4z&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/hechr4z/github-readme-stats)
+
 <!--
 **hechr4z/hechr4z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
