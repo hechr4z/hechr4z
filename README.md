@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Code Igniter 4**
 
-- 💬 Ask me about **PHP, Laravel, MySQL, Code Igniter 4**
+- 💬 Ask me about **anything😅**
 
 - 📫 How to reach me **kenb.space3112@gmail.com**
 
