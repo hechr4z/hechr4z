@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafqi Putra</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
-- 🔭 I’m currently working on [kalkulator-ekspor](https://github.com/hechr4z/kalkulator-ekspor)
+- 🔭 I’m currently working on [Website Komunitas Ekspor Indonesia](https://github.com/hechr4z/komunitas-ekspor)
 
 - 🌱 I’m currently learning **Code Igniter 4**
 
